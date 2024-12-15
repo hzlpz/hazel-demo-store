@@ -225,7 +225,7 @@
       "settings": {
         "text": "Learn the Code - Create the Unexpected - Charge with Confidence - Learn the Code - Create the Unexpected - Charge with Confidence - Learn the Code - Create the Unexpected - Charge with Confidence - Learn the Code - Create the Unexpected - Charge with Confidence - Learn the Code - Create the Unexpected - Charge with Confidence -Learn the Code - Create the Unexpected - Charge with Confidence - Learn the Code - Create the Unexpected - Charge with Confidence - Learn the Code - Create the Unexpected - Charge with Confidence - Learn the Code - Create the Unexpected - Charge with Confidence - Learn the Code - Create the Unexpected - Charge with Confidence - Learn the Code - Create the Unexpected - Charge with Confidence -",
         "transparent_bg": true,
-        "background": "transparent",
+        "background": "rgba(0,0,0,0)",
         "color_text": "rgba(0,0,0,1)",
         "font_size": 2,
         "movePath": 0,
